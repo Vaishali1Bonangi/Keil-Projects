@@ -12,25 +12,35 @@ Demontrate a LED blinking project on Keil Studio Cloud with  **STM32_NUCLEO-F401
 
 # Hardware Used
 Board: STM32 NUCLEO-F401RE
+
 LED Pin: PA5 (LD2 – green LED on the board)
 
 # Software Tools
 Keil Studio Cloud (https://studio.keil.arm.com/)
+
 Mbed OS (online libraries)
+
 Web Browser for development and flashing
 
 
 # How to Run a code
 Open Keil Studio Cloud
+
 Create a new Mbed project and select your board as NUCLEO-F401RE
+
 Copy the code above into main.cpp
+
 Connect your board via USB
+
 Click Build & Flash to deploy and run the code
 
 # What I have Learn?
 How to configure and use GPIO with Mbed OS
+
 Using cloud-based IDE for embedded programming
+
 Basics of LED toggling and delays
+
 Working with DigitalOut and thread delays
 
 # License

@@ -1,0 +1,2 @@
+Keil-LEDBLINK - NUCLEO-F401RE (Keil Studio Cloud + Mbed OS)
+Demonstrate a LED blinking project on Keil Studio Cloud with STM32_NUCLEO-F401RE using Mbed OS. Utilized DigitalOut class to toggle the onboard LED connected to pin PA5. Demonstrated Mbed's high-level API for GPIO control, timing using ThisThread::sleep_for(), structured C++ and cloud-based development tools.
